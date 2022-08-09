@@ -142,5 +142,6 @@ dist
 .svelte-kit
 
 # sql config file
-.dbconfig.js
+dbconfig.js
+
 # End of https://www.toptal.com/developers/gitignore/api/node
